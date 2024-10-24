@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Next, Golang
 
-- 👯 I’m collaborating on [Kegeberew Agriculture Tracking System]
+- 👯 I’m collaborating on [Ethio-Chicken app admin panel]
 
 - 💬 Ask me about React, Express, MongoDB, Node, Angular, TailwindCss, Github, and Docker
 
