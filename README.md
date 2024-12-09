@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Insurance Reminder System]
 
-- 🌱 I’m currently learning Next, Golang
+- 🌱 I’m currently learning React Native, Golang
 
 - 👯 I’m collaborating on [Ethio-Chicken app admin panel]
 
-- 💬 Ask me about React, Express, MongoDB, Node, Angular, TailwindCss, Github, and Docker
+- 💬 Ask me about Next.js, React, Express, MongoDB, Node, Angular, TailwindCss, Github, and Docker
 
 - 📫 How to reach me dawitassaye1993@gmail.com
 
